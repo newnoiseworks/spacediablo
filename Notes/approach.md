@@ -31,13 +31,11 @@
 ## Just the fun parts
 - Tight game loops, solid reptitions
   - establish a solid time pattern / goal to achieve a solid rhtyhm to gameplay (missions, combat, leveling, etc)
-    - use a tool to track stuff like this
-    - later use a tool to track stuff in the game
+    - use a tool to track stuff like this for data
+    - later use a tool to track stuff in the game (the one we're making)
       - unity analytics
-        - instead of later why not REALLY SOON
-        - like with the spatialOS stuff
     - some timing patterns for reference:
-      - w0w pattern: 60-90 seconds, 5 minute, 10 minute mission times
+      - w0w opening pattern: 60-90 seconds, 5 minute, 10 minute mission times
         - move this elsewhere into a general record of game timing loops
   - always be shoving that dopamine
     - loot
