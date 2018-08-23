@@ -3,7 +3,6 @@
 #### General high level ideals, tenets, hopes, and dreams.
 
 ## Reduce, Reuse, Recycle
-
 - Promote as much replayability and reuse of existing content, e.g.:
   - Incentivize players to replay certain areas for leveling new characters / weapons etc e.g. Warframe
     - Should never have to feel like they're "starting over" as much as "leveling something else up"
@@ -14,18 +13,37 @@
       - not only to reduce having to re-create models for the sake of items, but also to later sell models
       - presents a challenge with the loot reward system
   - This is an incomplete list
-- Play-as-you-wish
-  - Keyboard, mouse, controller support from the get go - diablo style + w0w WASD style
-    - Need to ensure high level method wrappers etc etc so no skills / game code touch inputs directly
-  - Hardcore style level grinding / looting, or lazy style dungeon crawling, whatevs
-    - Different servers, good mixing of players
-  - Modding
-    - Sanction safe ways to do this
-      - Unity probably has stuff for the client (see Skylines, uses Steam store for distro too)
-      - Spatial kind of implies server stuff is totally cool?
-  - Offline / Online
-    - Characters / run throughs would likely have to be completely separate
-      - Reconciliation makes any kind of economy tough
-    - Needs to have codebase written to universal actions / behaviors, largely (hopefully) a programming architecture problem
 
+## Play how you want
+- Keyboard, mouse, controller support from the get go - diablo style + w0w WASD style
+  - Need to ensure high level method wrappers etc etc so no skills / game code touch inputs directly
+- Hardcore style level grinding / looting, or lazy style dungeon crawling, whatevs
+  - Different servers, good mixing of players
+- Modding
+  - Sanction safe ways to do this
+    - Unity probably has stuff for the client (see Skylines, uses Steam store for distro too)
+    - Spatial kind of implies server stuff is totally cool?
+- Offline / Online
+  - Characters / run throughs would likely have to be completely separate
+    - Reconciliation makes any kind of economy tough
+  - Needs to have codebase written to universal actions / behaviors, largely (hopefully) a programming architecture problem
+
+## Just the fun parts
+- Tight game loops, solid reptitions
+  - establish a solid time pattern / goal to achieve a solid rhtyhm to gameplay (missions, combat, leveling, etc)
+    - use a tool to track stuff like this
+    - later use a tool to track stuff in the game
+      - unity analytics
+        - instead of later why not REALLY SOON
+        - like with the spatialOS stuff
+    - some timing patterns for reference:
+      - w0w pattern: 60-90 seconds, 5 minute, 10 minute mission times
+        - move this elsewhere into a general record of game timing loops
+  - always be shoving that dopamine
+    - loot
+    - mission completions
+    - achievements
+    - components to build loot
+    - maybe funny one liners like in comic books but thematically matching the act / area
+    - see timing
 
