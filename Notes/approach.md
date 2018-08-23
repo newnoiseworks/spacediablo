@@ -23,5 +23,9 @@
     - Sanction safe ways to do this
       - Unity probably has stuff for the client (see Skylines, uses Steam store for distro too)
       - Spatial kind of implies server stuff is totally cool?
+  - Offline / Online
+    - Characters / run throughs would likely have to be completely separate
+      - Reconciliation makes any kind of economy tough
+    - Needs to have codebase written to universal actions / behaviors, largely (hopefully) a programming architecture problem
 
 
