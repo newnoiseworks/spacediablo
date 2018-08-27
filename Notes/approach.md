@@ -20,6 +20,7 @@
 - Hardcore style level grinding / looting, or lazy style dungeon crawling, whatevs
   - Different servers, good mixing of players
 - Modding
+  - Yeah, jesus, this is a stretch and a half. Aim to do research to see if our code approaches don't interfere with what would eventually be needed to allow modding.
   - Sanction safe ways to do this
     - Unity probably has stuff for the client (see Skylines, uses Steam store for distro too)
     - Spatial kind of implies server stuff is totally cool?
